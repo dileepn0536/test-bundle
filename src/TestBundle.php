@@ -11,3 +11,4 @@ class TestBundle extends Bundle
         return \dirname(__DIR__);
     }
 }
+?>
