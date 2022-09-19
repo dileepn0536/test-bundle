@@ -1,0 +1,26 @@
+{
+    "name": "dileepn0536/test-bundle",
+    "description": "Testing bundles concept",
+    "type": "library",
+    "require": {
+        "php": ">=5.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dileepn0536\\TestBundle\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Dileepn0536\\TestBundle\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dileep Nadukuru",
+            "email": "dileepnadukuru@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
