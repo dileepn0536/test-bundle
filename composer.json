@@ -11,11 +11,6 @@
             "Dileepn0536\\TestBundle\\": "src/"
         }
     },
-    "autoload-dev": {
-        "psr-4": {
-            "Dileepn0536\\TestBundle\\Tests\\": "tests/"
-        }
-    },
     "authors": [
         {
             "name": "Dileep Nadukuru",
