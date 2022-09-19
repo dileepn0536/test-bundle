@@ -1,6 +1,6 @@
 <?php
 // src/Acme/TestBundle/AcmeTestBundle.php
-namespace App\Dileepn0536\TestBundle;
+namespace Dileepn0536\TestBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
